@@ -1,0 +1,69 @@
+.root {
+    -fx-background-color: blue;
+}
+
+.menuBar {
+    -fx-background-color: #f0f2f5;
+}
+
+.chatsBar {
+    -fx-background-color: #ffffff;
+}
+
+.messagesBar {
+    -fx-background-color: black;
+}
+
+.messagesBar_topBar {
+    -fx-background-color: #f0f2f5;
+}
+
+.messagesView {
+    /*-fx-background-color: red;*/
+}
+
+.messagesView_scrollPane {
+    /*-fx-background-color: red;*/
+}
+
+/*.messagesView_scrollPane:focused {*/
+/*    -fx-background-color: -fx-box-border, -fx-control-inner-background;*/
+/*    -fx-background-insets: 0, 0;*/
+/*    -fx-padding: 0;*/
+/*}*/
+
+.messagesView_vbox {
+    -fx-background-image: url('pics/chat-bg/chat-bg-6.jpg');
+    -fx-background-size: 300 600;
+}
+
+.messagesBar_bottomBar {
+    -fx-background-color: #f0f2f5;
+}
+
+.profileButton {}
+.settingsButton {}
+
+.chatsBar_searchbar_chatsLabel {
+
+}
+
+.chatsBar_searchbar_textField {
+    -fx-background-color: #f0f2f5;
+    -fx-background-radius: 5 5 5 5;
+}
+
+.chatsBar_searchbar_label_1 {
+    -fx-background-color: #e7fce3;
+    -fx-background-radius: 13 13 13 13;
+}
+
+.chatsBar_searchbar_label_2 {
+    -fx-background-color: #f0f2f5;
+    -fx-background-radius: 13 13 13 13;
+}
+
+.chatsBar_searchbar_label_3 {
+    -fx-background-color: #f0f2f5;
+    -fx-background-radius: 13 13 13 13;
+}

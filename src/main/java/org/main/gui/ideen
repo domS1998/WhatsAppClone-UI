@@ -1,0 +1,9 @@
+Komponeten
+- lookup tabelle für alle komponenten by id für jeden Controller
+- Konstruktor verlangt id, fügt elemente mit id in globale Tabelle ein
+
+Fenster:
+- lookup tabelle für alle Fenster, statisch für AbstractWindow
+
+Gui:
+- Gui Objekt mit Tabelle / Baum für alle Fenster / Zustände

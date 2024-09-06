@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: balck;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <VBox prefHeight="589.0" prefWidth="584.0" style="-fx-background-color: white;">
+         <children>
+            <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: black;" />
+            <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: red;" />
+            <StackPane prefHeight="150.0" prefWidth="200.0" />
+            <StackPane prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: black;" />
+         </children>
+      </VBox>
+   </content>
+</ScrollPane>

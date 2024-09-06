@@ -1,0 +1,7 @@
+Lasttest mit Schleifen:
+
+    - 1000 random user erstellen und speichern
+    - 1000 user mit Caches laden
+    - 100 Chats einfügen pro User
+    - 100 Nachrichten einfügen
+    - gleichzeitiges Senden mit 1s Abstand von allen Usern gleichzeitig
